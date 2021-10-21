@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hooninator/react-pg.git/static/css/main.b9f5cd9c.chunk.css",
+    "main.js": "/Hooninator/react-pg.git/static/js/main.8e6b675b.chunk.js",
+    "main.js.map": "/Hooninator/react-pg.git/static/js/main.8e6b675b.chunk.js.map",
+    "runtime-main.js": "/Hooninator/react-pg.git/static/js/runtime-main.078366a0.js",
+    "runtime-main.js.map": "/Hooninator/react-pg.git/static/js/runtime-main.078366a0.js.map",
+    "static/css/2.150d169a.chunk.css": "/Hooninator/react-pg.git/static/css/2.150d169a.chunk.css",
+    "static/js/2.a4cb1963.chunk.js": "/Hooninator/react-pg.git/static/js/2.a4cb1963.chunk.js",
+    "static/js/2.a4cb1963.chunk.js.map": "/Hooninator/react-pg.git/static/js/2.a4cb1963.chunk.js.map",
+    "static/js/3.6af4b52d.chunk.js": "/Hooninator/react-pg.git/static/js/3.6af4b52d.chunk.js",
+    "static/js/3.6af4b52d.chunk.js.map": "/Hooninator/react-pg.git/static/js/3.6af4b52d.chunk.js.map",
+    "index.html": "/Hooninator/react-pg.git/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Hooninator/react-pg.git/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b9f5cd9c.chunk.css.map": "/Hooninator/react-pg.git/static/css/main.b9f5cd9c.chunk.css.map",
+    "static/js/2.a4cb1963.chunk.js.LICENSE.txt": "/Hooninator/react-pg.git/static/js/2.a4cb1963.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.078366a0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a4cb1963.chunk.js",
+    "static/css/main.b9f5cd9c.chunk.css",
+    "static/js/main.8e6b675b.chunk.js"
+  ]
+}
