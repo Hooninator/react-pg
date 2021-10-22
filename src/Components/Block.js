@@ -2,18 +2,21 @@ import React from 'react';
 
 class Block extends React.Component {
    
-    //ADD CODE HERE
+  constructor(props) {
+    super(props);
+  }
     
   render() {
 
   const mystyle = {
-      // ADD CODE HERE
+      'background-color': this.props.color,
+      display: 'flex',
     };
 
   return (
     <>
       <div class = "blockers" style={
-        // ADD CODE HERE
+        mystyle
         }>
       </div>
       
